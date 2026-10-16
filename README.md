@@ -41,3 +41,6 @@ More plugins and updates may be added as they become available. Check this page 
 🎇 **𝗩𝗔𝗟𝗬 𝗟𝗔𝗨𝗡𝗖𝗛𝗘𝗥 𝗕𝗬 𝗩𝗜𝗦𝗨𝗔𝗟𝗖𝟱** 🎇
 
 ✨ *Customize More. Experience More.* ✨
+---
+💾 Valy Plugin Format [ .Valyp ]
+---
